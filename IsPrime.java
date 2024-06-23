@@ -12,7 +12,6 @@ public class IsPrime {
           return false;
         }
       }
-  
       // If no divisors found, n is prime
       return true;
     }
